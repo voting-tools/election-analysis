@@ -2,7 +2,7 @@
 
 # Election Analysis
 
-This repo contains code used to analyze interesting elections.   A database of election results can be found at [PrefLib.org](https://preflib.org).
+This repo contains code used to analyze interesting elections.  A database of election results can be found at [PrefLib.org](https://preflib.org).
 
 The notebooks use the Python package ``pref_voting``.   Consult [https://pref-voting.readthedocs.io/](https://pref-voting.readthedocs.io/) for an overview of this package.  
 
