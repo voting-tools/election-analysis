@@ -12,5 +12,5 @@ The notebooks use the Python package ``pref_voting``.   Consult [https://pref-vo
 * burlington_vt_2009.ipynb: Burlington, Vermont 2009 Mayoral Election 
 * minneapolis_2021.ipynb: Minneapolis 2021 City Council Ward 2 Election 
 * alaska_2022.ipynb: 2022 Alaska Primary Special General Election
-
+* oakland_2022.ipynb: 2022 general election for Oakland Unified Board of Education District 4
  
